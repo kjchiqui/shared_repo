@@ -83,12 +83,26 @@ Es una Web disponible para móviles y que presenta una interfaz en forma de nube
 Es a la fecha la que se considera como el origen o el padre de la Web semántica, tiene la función de procesar información y tomar decisiones en base a un razonamiento propio, puede hacer deducciones basadas en la lógica logrando plantear soluciones a diversos problemas, un ejemplo de su uso fue el conocido PageRank que Google usaba para dar cierta nota de relevancia a todo sitio Web indexado en su base de datos.
 
 
-## Web 2.0 by Participant 5
+## Web 2.0 by Isabel Chilan
 
 ### Main features
+ ### Facilitan las interacción entre usuarios
+ ### Sus páginas son dinámicas
+ ### Los usuarios son capaces de crear, publicar, compartir y recopilar información.
+ ### Facilita el trabajo colaborativo, autónomo, crítico y creativo.
+ ### Se actualiza periódicamente
+ ### Todos trabajan interactuando
+ ### Todos pueden tener acceso y crear su propio espacio.
 
 ### Example of opportunities
-
+ ### Herramientas colaborativas
+ ### Redes sociales
+ ### Mapas conceptuales
+ ### Presentaciones
+ ### Blogs
+ ### Podcasts
+ ### Wikis
+ ### Gestores CMS
 
 ## Web 1.0 by Participant 6
 
