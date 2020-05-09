@@ -23,9 +23,12 @@
 ## Web 4.0 by Participant 3
 
 ### Main features
- ### Se emplea gafas especiales.
- ### Integrado en los vehículos.
- ### Se puede dialogar de forma natural y en línea con una agente virtual inteligente.
+    Se emplea gafas especiales.
+    Integrado en los vehículos.
+    Se puede dialogar de forma natural y en línea con una agente virtual inteligente.
+    Internet: se usa un dispositivo, ligero, delgado, alta resolución y portátil.
+    
+
 
 ### Example of opportunities
 
