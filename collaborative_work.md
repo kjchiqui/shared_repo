@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Summary of Activity 1
 
 
