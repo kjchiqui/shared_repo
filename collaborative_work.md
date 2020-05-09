@@ -53,9 +53,7 @@ Las nuevas funcionalidades de la Web 3.0 requieren de un Internet mucho más rá
 
  La Web 3.0 mejora las posibilidades de los usuarios de conectarse no sólo a través de las computadoras de escritorio y laptops, sino también a través de celulares, tablets, relojes y más dispositivos.
 
-> Contenido Libre: 
-
-Los programas libres y las licencias 'Creative Commons' son mucho más comunes en la Web 3.0
+> Contenido Libre: Los programas libres y las licencias 'Creative Commons' son mucho más comunes en la Web 3.0
 
 > Computación en la nube: 
 
@@ -85,26 +83,58 @@ Es a la fecha la que se considera como el origen o el padre de la Web semántica
 ## Web 2.0 by Isabel Chilan
 
 ### Main features
-    Facilitan las interacción entre usuarios
-	Sus páginas son dinámicas
-	Los usuarios son capaces de crear, publicar, compartir y recopilar información.
-	Facilita el trabajo colaborativo, autónomo, crítico y creativo.
-	Se actualiza periódicamente
-	Todos trabajan interactuando
-	Todos pueden tener acceso y crear su propio espacio.
+       Facilitan las interacción entre usuarios
+       Sus páginas son dinámicas
+       Los usuarios son capaces de crear, publicar, compartir y recopilar información.
+       Facilita el trabajo colaborativo, autónomo, crítico y creativo.
+       Se actualiza periódicamente
+       Todos trabajan interactuando
+       Todos pueden tener acceso y crear su propio espacio.
 
 ### Example of opportunities
-	Herramientas colaborativas
-	Redes sociales
-	Mapas conceptuales
-	Presentaciones
-	Blogs
-	Podcasts
-	Wikis
-	Gestores CMS
+       Herramientas colaborativas
+       Redes sociales
+       Mapas conceptuales
+       Presentaciones
+       Blogs
+       Podcasts
+       Wikis
+       Gestores CMS
 
-## Web 1.0 by Participant 6
+## Web 1.0 by Alexandra Santana
 
 ### Main features
+> Presencia informativa y accesible a través de la red
+
+> Internet se convierte en un servidor de conocimiento estático de acceso limitado por razones técnicas, económicas y     geográficas
+
+> Páginas creadas a partir del código HTMl difícilmente actualizables y con nula interacción del usuario en las mismas.
+
+> Discurso lineal: emisor-receptor
+
+> Sitios direccionales y no colaborativos
+
+> Los usuarios son “lectores consumidores”
+
+- Pocos productores de contenidos 
+
 
 ### Example of opportunities
+
+1.- Icarito.cl
+Aplicado a la educación, es un sitio web donde se encuentra información de varias asignaturas
+
+2.- Stumbleupon.com
+Sitio web aplicado a los negocios, tenía integrada una red social permitía que los usuarios intercambien páginas de interés en línea por medio de una barra de herramientas disponible como extensión para los navegadores.
+
+3.- Geocities.com
+Sitio web que brindaba servicio gratuito de webhosting
+
+4.- Zombo.com
+Sitio web de servicio único que utiliza animación flash
+
+5.- Archive.org
+Provee acceso público a collecciones de materiales digitalizados, incluido websites, juegos, música, videos y millones de libros. Sumado a su función de archivo , el Archivo es una organización activista que aboga por una Internet abierta y gratuita. 
+
+
+    
