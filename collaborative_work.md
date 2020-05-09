@@ -49,7 +49,9 @@ Las nuevas funcionalidades de la Web 3.0 requieren de un Internet mucho más rá
 
  La Web 3.0 mejora las posibilidades de los usuarios de conectarse no sólo a través de las computadoras de escritorio y laptops, sino también a través de celulares, tablets, relojes y más dispositivos.
 
-> Contenido Libre: Los programas libres y las licencias 'Creative Commons' son mucho más comunes en la Web 3.0
+> Contenido Libre: 
+
+Los programas libres y las licencias 'Creative Commons' son mucho más comunes en la Web 3.0
 
 > Computación en la nube: 
 
