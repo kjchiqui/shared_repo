@@ -28,9 +28,11 @@
     Se puede dialogar de forma natural y en línea con una agente virtual inteligente.
     Internet: se usa un dispositivo, ligero, delgado, alta resolución y portátil.
     
-
-
 ### Example of opportunities
+    Reservar una mesa para cenar o Pedir un taxi desde el dispositivo, automáticamente
+    ejecutaría la acción sin más intervención.
+    Enviar un mensaje cuando vea que llegas tarde a trabajar.
+    Avisar a la asistencia sanitaria cuando una persona tenga el ritmo cardiaco elevado.
 
 
 ## Web 3.0 by Participant 4
