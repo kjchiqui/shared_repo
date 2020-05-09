@@ -20,21 +20,17 @@
 ### Recomendations
 
 
-## Web 4.0 by Karen Chiquito
+## Web 4.0 by Participant 3
 
 ### Main features
-    Se emplea gafas especiales.
-    Integrado en los vehículos.
-    Se puede dialogar de forma natural y en línea con una agente virtual inteligente.
-    Internet: se usa un dispositivo, ligero, delgado, alta resolución y portátil.
+ - Feature 1 ...
+ - Feature 2 ...
+ - ...
 
 ### Example of opportunities
-    Reservar una mesa para cenar o Pedir un taxi desde el dispositivo, automáticamente
-    ejecutaría la acción sin más intervención.
-    Enviar un mensaje cuando vea que llegas tarde a trabajar.
-    Avisar a la asistencia sanitaria cuando una persona tenga el ritmo cardiaco elevado.
 
-## Web 3.0 by Mishell Ortiz
+
+## Web 3.0 by Participant 4
 
 ### Main features
 > Busquedas Inteligentes:
@@ -80,9 +76,10 @@ Es una Web disponible para móviles y que presenta una interfaz en forma de nube
 Es a la fecha la que se considera como el origen o el padre de la Web semántica, tiene la función de procesar información y tomar decisiones en base a un razonamiento propio, puede hacer deducciones basadas en la lógica logrando plantear soluciones a diversos problemas, un ejemplo de su uso fue el conocido PageRank que Google usaba para dar cierta nota de relevancia a todo sitio Web indexado en su base de datos.
 
 
-## Web 2.0 by Isabel Chilan
+## Web 2.0 by Participant 5
 
 ### Main features
+<<<<<<< HEAD
        Facilitan las interacción entre usuarios
        Sus páginas son dinámicas
        Los usuarios son capaces de crear, publicar, compartir y recopilar información.
@@ -100,6 +97,11 @@ Es a la fecha la que se considera como el origen o el padre de la Web semántica
        Podcasts
        Wikis
        Gestores CMS
+=======
+
+### Example of opportunities
+
+>>>>>>> 147370ed082a74ead99488817aa0c7a497cbecdc
 
 ## Web 1.0 by Alexandra Santana
 
