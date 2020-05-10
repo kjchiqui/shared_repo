@@ -16,8 +16,12 @@
 ## Dot-com bubble by Participant 2
 
 ### Causes
+	Corriente económica especulativa muy fuerte se dio entre 1997 y 2001 (Caida de Nasdaq). Durante este período, las bolsas de valores de las naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de Internet y a la llamada nueva economía. Al pasar el tiempo, muchas de estas empresas quebraron o dejaron de operar.
+
 
 ### Recomendations
+	La valoración de las empresas del mundo virtual no eran sostenible y que tarde o temprano iba a ocurrir una «corrección en el mercado», entendiendo que estos valores contenían una importante sobrevaloración de origen especulativo.
+	Destacar los servicios en línea (banca en línea, transferencias, dominios, compras, etc.).
 
 
 ## Web 4.0 by Karen Chiquito
