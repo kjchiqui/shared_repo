@@ -13,7 +13,7 @@
 ### Disadvantages
 
 
-## Dot-com bubble by Guillermo Sancan
+## Dot-com bubble by Guillermo Sancan Palacios
 
 ### Causes
 	Corriente económica especulativa muy fuerte se dio entre 1997 y 2001 (Caida de Nasdaq). Durante este período, las bolsas de valores de las naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de Internet y a la llamada nueva economía. Al pasar el tiempo, muchas de estas empresas quebraron o dejaron de operar.
